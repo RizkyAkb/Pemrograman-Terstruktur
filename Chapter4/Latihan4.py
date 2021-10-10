@@ -27,3 +27,4 @@ print('Total waktu perjalanan + istirahat 45 menit adalah', totalwaktu, 'jam')
 print('Atau', round(totaljam), "jam", totalmnt, 'menit')
 print('Jika pak Amir berangkat pada jam', jambrkt, 'lebih', mntbrkt, 'menit')
 print('Maka pak Amir akan sampai pada jam', round(jamsampai), 'lebih', mntsampai, 'menit')
+
