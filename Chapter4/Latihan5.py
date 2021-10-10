@@ -15,3 +15,4 @@ print (lk_puluh,lk_satuan,(mhs_laki))
 print (pr_puluh,pr_satuan,(mhs_pr))
 
 print('$ berarti puluhan @ berarti satuan')
+
