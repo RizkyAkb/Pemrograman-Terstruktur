@@ -8,4 +8,3 @@ print ('Tentukan berapa kali minimal pak Budi harus mengisi bensin hingga penuh 
 print ('Jawaban : ')
 print ('Karena mobil membutuhkan bensin sebanyak',hasil, 'liter')
 print ('Maka Pak Budi akan mengisi bensin minimal sebanyak',isi_bensin, 'kali')
-
