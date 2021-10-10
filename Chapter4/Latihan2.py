@@ -6,3 +6,4 @@ print('Apabila konsumsi bbm mobil pak Budi adalah 1:12 (1 lt bbm dapat digunakan
 print('maka berapa liter bensin yang diperlukan untuk perjalanan tersebut?')
 print('Jawaban : ')
 print ('Pak Budi membutuhkan',hasil,'liter untuk perjalanan tersebut')
+
