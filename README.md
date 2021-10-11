@@ -1,4 +1,4 @@
 # Pemrograman-Terstruktur
- Tugas mata kuliah pemrograman terstruktur 
- - Nama : Rizky Akbar Wahyu Putranto 
- - NIM  : K3521064
+ Tugas mata kuliah pemrograman terstruktur <br>
+ Nama : Rizky Akbar Wahyu Putranto <br>
+ NIM  : K3521064
