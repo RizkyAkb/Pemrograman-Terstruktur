@@ -18,3 +18,4 @@ while True:
     
 print ('Score anda: ',score)
 
+
