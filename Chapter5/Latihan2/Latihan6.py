@@ -17,5 +17,3 @@ while True:
         break
     
 print ('Score anda: ',score)
-
-
