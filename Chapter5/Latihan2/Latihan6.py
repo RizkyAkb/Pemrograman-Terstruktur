@@ -13,7 +13,7 @@ while True:
         break
     score -= 2
     if score == 0 :
-        print ('Sroce anda sudah 0, anda tidak diperkenankan mencoba lagi')
+        print ('Score anda sudah 0, anda tidak diperkenankan mencoba lagi')
         break
     
 print ('Score anda: ',score)
