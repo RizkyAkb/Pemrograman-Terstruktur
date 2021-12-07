@@ -1,0 +1,6 @@
+M01|rakb|Buku Protek|2021-12-07|2021-12-14
+M02|rizky|Buku Tulis|2021-11-30|2021-12-06
+M03|Riz|Buku Gambar|2021-12-07|2021-12-14
+M04|rak|Buku Kotak|2021-12-07|2021-12-14
+M05|riz|Buku Halus|2021-12-07|2021-12-14
+M06|akb|Buku Saku|2021-12-07|2021-12-14
